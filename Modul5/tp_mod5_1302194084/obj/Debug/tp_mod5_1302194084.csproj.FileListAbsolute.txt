@@ -1,7 +1,0 @@
-C:\Users\Kha\source\repos\tp_mod5_1302194084\tp_mod5_1302194084\obj\Debug\tp_mod5_1302194084.csproj.AssemblyReference.cache
-C:\Users\Kha\source\repos\tp_mod5_1302194084\tp_mod5_1302194084\obj\Debug\tp_mod5_1302194084.csproj.CoreCompileInputs.cache
-C:\Users\Kha\source\repos\tp_mod5_1302194084\tp_mod5_1302194084\bin\Debug\tp_mod5_1302194084.exe.config
-C:\Users\Kha\source\repos\tp_mod5_1302194084\tp_mod5_1302194084\bin\Debug\tp_mod5_1302194084.exe
-C:\Users\Kha\source\repos\tp_mod5_1302194084\tp_mod5_1302194084\bin\Debug\tp_mod5_1302194084.pdb
-C:\Users\Kha\source\repos\tp_mod5_1302194084\tp_mod5_1302194084\obj\Debug\tp_mod5_1302194084.exe
-C:\Users\Kha\source\repos\tp_mod5_1302194084\tp_mod5_1302194084\obj\Debug\tp_mod5_1302194084.pdb
