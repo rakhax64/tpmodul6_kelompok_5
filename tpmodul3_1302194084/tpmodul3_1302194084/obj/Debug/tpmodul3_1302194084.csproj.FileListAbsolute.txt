@@ -1,7 +1,0 @@
-D:\Perkuliahan\Semester 6\Konstruksi Perangkat Lunak\TP\tpmodul3_1302194084\tpmodul3_1302194084\bin\Debug\tpmodul3_1302194084.exe.config
-D:\Perkuliahan\Semester 6\Konstruksi Perangkat Lunak\TP\tpmodul3_1302194084\tpmodul3_1302194084\bin\Debug\tpmodul3_1302194084.exe
-D:\Perkuliahan\Semester 6\Konstruksi Perangkat Lunak\TP\tpmodul3_1302194084\tpmodul3_1302194084\bin\Debug\tpmodul3_1302194084.pdb
-D:\Perkuliahan\Semester 6\Konstruksi Perangkat Lunak\TP\tpmodul3_1302194084\tpmodul3_1302194084\obj\Debug\tpmodul3_1302194084.csproj.AssemblyReference.cache
-D:\Perkuliahan\Semester 6\Konstruksi Perangkat Lunak\TP\tpmodul3_1302194084\tpmodul3_1302194084\obj\Debug\tpmodul3_1302194084.csproj.CoreCompileInputs.cache
-D:\Perkuliahan\Semester 6\Konstruksi Perangkat Lunak\TP\tpmodul3_1302194084\tpmodul3_1302194084\obj\Debug\tpmodul3_1302194084.exe
-D:\Perkuliahan\Semester 6\Konstruksi Perangkat Lunak\TP\tpmodul3_1302194084\tpmodul3_1302194084\obj\Debug\tpmodul3_1302194084.pdb
