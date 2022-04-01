@@ -1,7 +1,0 @@
-D:\Perkuliahan\Semester 6\Konstruksi Perangkat Lunak\TP\Modul4\Modul4\bin\Debug\Modul4.exe.config
-D:\Perkuliahan\Semester 6\Konstruksi Perangkat Lunak\TP\Modul4\Modul4\bin\Debug\Modul4.exe
-D:\Perkuliahan\Semester 6\Konstruksi Perangkat Lunak\TP\Modul4\Modul4\bin\Debug\Modul4.pdb
-D:\Perkuliahan\Semester 6\Konstruksi Perangkat Lunak\TP\Modul4\Modul4\obj\Debug\Modul4.csproj.AssemblyReference.cache
-D:\Perkuliahan\Semester 6\Konstruksi Perangkat Lunak\TP\Modul4\Modul4\obj\Debug\Modul4.csproj.CoreCompileInputs.cache
-D:\Perkuliahan\Semester 6\Konstruksi Perangkat Lunak\TP\Modul4\Modul4\obj\Debug\Modul4.exe
-D:\Perkuliahan\Semester 6\Konstruksi Perangkat Lunak\TP\Modul4\Modul4\obj\Debug\Modul4.pdb
